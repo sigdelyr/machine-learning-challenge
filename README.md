@@ -1,19 +1,21 @@
-# Machine Learning Homework - Exoplanet Exploration
+# Machine Learning - Exoplanet Exploration
 
 
-Tools / Technologies used: Python, SVM (Machine Learning Model), and Random forest 
+# Tools / Technologies used: 
 
-Summary
+Python, SVM (Machine Learning Model), and Random forest 
+
+# Summary
 
 
 Random Forest is better than SVM.
 
 SVM
 
-                     Before CV                     After CV
-Training Data Score: 0.843410261300782            0.8743086019454511
+                             Before CV                                  After CV
+Training Data Score:     0.843410261300782                       0.8743086019454511
 
-Testing Data Score: 0.8421052631578947            0.8718535469107551
+Testing Data Score:      0.8421052631578947                      0.8718535469107551
 
                  precision    recall  f1-score   support
 
